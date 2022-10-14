@@ -1,4 +1,4 @@
-#include <stdio.h.
+#include <stdio.h>
 
 int main(void){
 	printf("Size of a char: %dbyte(s)\n", sizeof(char));
@@ -6,5 +6,5 @@ int main(void){
 	printf("Size of a long int: %dbyte(s)\n", sizeof(long int));
 	printf("Size of a long long int: %dbyte(s)\n", sizeof(long long int));	
 	ptintf("Size of a float: %dbyte(s)\n", sizeof(float));
-	return(0)
+	return(0);
 }
