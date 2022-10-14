@@ -1,2 +1,3 @@
-#!/bin/bash
+#essor
+bin/bash
 gcc -E $CFILE -o c
